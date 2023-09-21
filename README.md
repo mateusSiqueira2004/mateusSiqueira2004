@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/mateusSiqueira2004?tab=repositories](https://github.com/mateusSiqueira2004?tab=repositories)
 
-- 💬 Se tiver perguntas, pergunte sobre **java e kotlin, mas sintam-se livre para me perguntar sobre outras coisas, fico muito feliz em poder ajudar.**
+- 💬 Se tiver perguntas, pergunte sobre **java e C#, mas sintam-se livre para me perguntar sobre outras coisas, fico muito feliz em poder ajudar.**
 
 - 📫 How to reach me **mateussiqueirasalomao@gmail.com**
 
