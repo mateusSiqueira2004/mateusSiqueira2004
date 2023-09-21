@@ -9,8 +9,6 @@
 
 - 💬 Se tiver perguntas, pergunte sobre **java e C#, mas sintam-se livre para me perguntar sobre outras coisas, fico muito feliz em poder ajudar.**
 
-- 📫 How to reach me **mateussiqueirasalomao@gmail.com**
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateussiqueira2004&show_icons=true&locale=en&layout=compact&theme=dark" alt="mateussiqueira2004" /></p>
 
 <h3 align="left">Connect with me:</h3>
