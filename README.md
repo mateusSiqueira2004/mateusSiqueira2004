@@ -1,9 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Mateus Siquira Salomão</h1>
 <h3 align="center">Eu sou um desenvolver Full Stack que ainda está começando, pretendo</h3>
 
-- 👯 Atualmente estou colaborando com [Projeto Integrador Generation](https://github.com/mateusSiqueira2004/DB-PIGeneration-DER.git)
-
-- 🌱 Eu atualmente estou aprendendo **.Net na Generation**
+- 🌱 Eu atualmente estou aprendendo **Java na DIO**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/mateusSiqueira2004?tab=repositories](https://github.com/mateusSiqueira2004?tab=repositories)
 
