@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou o Mateus Siquira Salomão</h1>
-<h3 align="center">Eu sou um desenvolver Full Stack que ainda está começando, pretendo</h3>
+<h3 align="center">Eu sou um desenvolver Full Stack que ainda está começando</h3>
 
-- 🌱 Eu atualmente estou aprendendo **Java na DIO**
+- 🌱 Eu trabalho como desenvolvedor full stack web PHP
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/mateusSiqueira2004?tab=repositories](https://github.com/mateusSiqueira2004?tab=repositories)
 
-- 💬 Se tiver perguntas, pergunte sobre **java e C#, mas sintam-se livre para me perguntar sobre outras coisas, fico muito feliz em poder ajudar.**
+- 💬 Se tiver perguntas, pergunte sobre **Linguagens Web, mas sintam-se livre para me perguntar sobre outras coisas, fico muito feliz em poder ajudar.**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateussiqueira2004&show_icons=true&locale=en&layout=compact&theme=dark" alt="mateussiqueira2004" /></p>
 
